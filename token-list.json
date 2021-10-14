@@ -17,7 +17,7 @@
     "tokens": [
         {
             "chainId": 56,
-            "address": "0x04073d16c6a08c27e8bbebe262ea4d1c6fa4c772",
+            "address": "https://bscscan.com/address/0x04073D16C6a08C27e8BbEbe262Ea4D1C6fa4C772",
             "name": "MetaToken",
             "symbol": "META",
             "decimals": 18,
