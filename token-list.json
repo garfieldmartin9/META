@@ -1,0 +1,32 @@
+{
+    "name": "MetaVerseMiner",
+    "logoURI": "https://raw.githubusercontent.com/garfieldmartin9/META/main/logo.png",
+    "keywords": [
+        "MetaverseMiner",
+        "MetaVerseMiner",
+        "METAVERSEMINER",
+        "metaverseminer",
+        "MetaToken",
+        "METATOKEN",
+        "metatoken",
+        "Meta",
+        "meta",
+        "META"
+    ],
+    "timestamp": "2021-09-14T11:12:40.000Z",
+    "tokens": [
+        {
+            "chainId": 56,
+            "address": "0x04073d16c6a08c27e8bbebe262ea4d1c6fa4c772",
+            "name": "MetaToken",
+            "symbol": "META",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/garfieldmartin9/META/main/logo.png"
+        }
+    ],
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+    }
+}
